@@ -6,6 +6,7 @@ import os
 
 OUT_PATH = 'cv_records.csv'
 field_names = [
+    'cv_id',
     'name',
     'description',
     'gender',
@@ -51,6 +52,7 @@ def generate_dataset(data_dir='data_assets'):
                 })
 
                 writer.writerow({
+                    'cv_id': f"CV_{count}",
                     'name': name,
                     'description': description,
                     'gender': gender,
