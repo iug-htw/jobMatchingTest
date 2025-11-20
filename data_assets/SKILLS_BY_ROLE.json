@@ -1,0 +1,26 @@
+{
+    "Software Engineer": "REST APIs, microservices, and CI/CD",
+    "Data Scientist": "Python, Pandas, and SQL",
+    "Product Manager": "backlog prioritization, roadmapping, and release planning",
+
+    "Project Manager": "scope management, scheduling, and risk tracking",
+    "Financial Analyst": "financial modeling, Excel, and forecasting",
+    "Marketing Manager": "campaign planning, SEO/SEM, and analytics",
+
+    "Registered Nurse (ICU)": "ventilator management, ICU protocols and medication titration",
+    "Pediatric Nurse": "pediatric assessment and care documentation",
+    "Pharmacist": "inventory management, stock control, and regulatory compliance",
+
+
+    "High School Teacher": "instructional design, lesson planning and classroom management",
+    "University Lecturer": "research-led teaching, curriculum development and academic advising",
+    "Research Assistant": "lab protocols, statistical analysis and literature review",
+
+    "Electrician":"safety compliance and panel installation",
+    "Mechanical Technician": "preventive maintenance and quality checks",
+    "Construction Supervisor": "site coordination and safety oversight",
+
+    "Policy Analyst": "stakeholder consultation, data analysis and recommendations",
+    "Social Worker": "case management, needs assessment and safeguarding protocols",
+    "Graphic Designer": "visual identity, brand assets and digital content"
+}

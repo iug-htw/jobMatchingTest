@@ -1,0 +1,145 @@
+level,text,job_id,role,domain
+Junior,"Hiring a Junior Software Engineer to implement features, fix bugs, and support code reviews under guidance from senior staff.",JOB_0,Software Engineer,tech
+Junior,"Junior Software Engineer role focused on contributing to backend services, writing tests, and learning deployment workflows.",JOB_1,Software Engineer,tech
+Mid,"Seeking a Software Engineer to design APIs, maintain microservices, and collaborate with other developers on production systems.",JOB_2,Software Engineer,tech
+Mid,"Software Engineer needed to work on application features, performance improvements, and integration tasks across services.",JOB_3,Software Engineer,tech
+Senior,"Senior Software Engineer role involving ownership of key services, architectural input, and improvement of engineering practices.",JOB_4,Software Engineer,tech
+Senior,"Hiring a Senior Software Engineer to lead implementation work, review designs, and ensure reliability of core systems.",JOB_5,Software Engineer,tech
+Lead,"Lead Software Engineer needed to coordinate technical decisions, guide implementation across teams, and oversee system quality.",JOB_6,Software Engineer,tech
+Lead,"Looking for a Lead Software Engineer to set technical direction, support planning, and supervise critical software components.",JOB_7,Software Engineer,tech
+Junior,"Hiring a Junior Data Scientist to assist with data cleaning, basic analysis, and model prototyping under supervision.",JOB_8,Data Scientist,tech
+Junior,"Junior Data Scientist role focused on preparing datasets, running experiments, and documenting results.",JOB_9,Data Scientist,tech
+Mid,"Seeking a Data Scientist to build predictive models, evaluate performance, and contribute to analytics projects.",JOB_10,Data Scientist,tech
+Mid,"Data Scientist needed to perform feature engineering, train models, and support deployment of analytical workflows.",JOB_11,Data Scientist,tech
+Senior,"Senior Data Scientist role involving ownership of modeling projects, methodology decisions, and communication of findings.",JOB_12,Data Scientist,tech
+Senior,"Hiring a Senior Data Scientist to design advanced models, review analyses, and mentor other team members.",JOB_13,Data Scientist,tech
+Lead,"Lead Data Scientist needed to coordinate data science initiatives, set standards, and supervise project execution.",JOB_14,Data Scientist,tech
+Lead,"Looking for a Lead Data Scientist to define modeling strategy, prioritize work, and support cross-functional planning.",JOB_15,Data Scientist,tech
+Junior,"Hiring a Junior Product Manager to support backlog grooming, write basic requirements, and assist with release preparation.",JOB_16,Product Manager,tech
+Junior,"Junior Product Manager role focused on collecting input, updating tickets, and helping track delivery progress.",JOB_17,Product Manager,tech
+Mid,"Seeking a Product Manager to manage roadmaps, write user stories, and coordinate with design and engineering.",JOB_18,Product Manager,tech
+Mid,"Product Manager needed to prioritize features, track outcomes, and align work with product goals.",JOB_19,Product Manager,tech
+Senior,"Senior Product Manager role involving ownership of a product area, definition of goals, and review of delivery progress.",JOB_20,Product Manager,tech
+Senior,"Hiring a Senior Product Manager to lead discovery work, refine strategy, and oversee feature execution.",JOB_21,Product Manager,tech
+Lead,"Lead Product Manager needed to shape product direction, manage multiple workstreams, and support other PMs.",JOB_22,Product Manager,tech
+Lead,"Looking for a Lead Product Manager to coordinate product strategy, align stakeholders, and supervise roadmap planning.",JOB_23,Product Manager,tech
+Junior,"Hiring a Junior Project Manager to help maintain project plans, update status reports, and track basic tasks.",JOB_24,Project Manager,business
+Junior,"Junior Project Manager role focused on scheduling meetings, recording actions, and supporting coordination.",JOB_25,Project Manager,business
+Mid,"Seeking a Project Manager to manage timelines, track risks, and coordinate cross-team activities.",JOB_26,Project Manager,business
+Mid,"Project Manager needed to maintain project documentation, monitor progress, and support delivery milestones.",JOB_27,Project Manager,business
+Senior,"Senior Project Manager role involving ownership of large projects, steering routines, and risk oversight.",JOB_28,Project Manager,business
+Senior,"Hiring a Senior Project Manager to guide project execution, handle escalations, and ensure objectives are met.",JOB_29,Project Manager,business
+Lead,"Lead Project Manager needed to oversee a portfolio of projects, standardise practices, and support other managers.",JOB_30,Project Manager,business
+Lead,"Looking for a Lead Project Manager to direct project governance, coordinate complex initiatives, and align stakeholders.",JOB_31,Project Manager,business
+Junior,"Hiring a Junior Financial Analyst to support data gathering, basic reports, and spreadsheet updates.",JOB_32,Financial Analyst,business
+Junior,"Junior Financial Analyst role focused on assisting with variance checks, simple forecasts, and documentation.",JOB_33,Financial Analyst,business
+Mid,"Seeking a Financial Analyst to prepare financial models, analyze performance, and support planning cycles.",JOB_34,Financial Analyst,business
+Mid,"Financial Analyst needed to review figures, build summary reports, and assist with budget work.",JOB_35,Financial Analyst,business
+Senior,"Senior Financial Analyst role involving oversight of complex models, review of analyses, and support for senior leadership.",JOB_36,Financial Analyst,business
+Senior,"Hiring a Senior Financial Analyst to lead financial reviews, refine assumptions, and consolidate reporting.",JOB_37,Financial Analyst,business
+Lead,"Lead Financial Analyst needed to coordinate analytical work, define standards, and supervise financial modelling efforts.",JOB_38,Financial Analyst,business
+Lead,"Looking for a Lead Financial Analyst to manage analysis across units, guide planning, and support strategic decisions.",JOB_39,Financial Analyst,business
+Junior,"Hiring a Junior Marketing Manager to assist with campaign setup, content coordination, and basic performance checks.",JOB_40,Marketing Manager,business
+Junior,"Junior Marketing Manager role focused on updating assets, tracking simple metrics, and supporting campaign execution.",JOB_41,Marketing Manager,business
+Mid,"Seeking a Marketing Manager to plan campaigns, review results, and coordinate with internal teams.",JOB_42,Marketing Manager,business
+Mid,"Marketing Manager needed to manage calendars, analyze performance, and support channel activities.",JOB_43,Marketing Manager,business
+Senior,"Senior Marketing Manager role involving ownership of campaign strategy, allocation decisions, and major reviews.",JOB_44,Marketing Manager,business
+Senior,"Hiring a Senior Marketing Manager to lead planning, refine messaging, and oversee campaign performance.",JOB_45,Marketing Manager,business
+Lead,"Lead Marketing Manager needed to direct marketing initiatives, set priorities, and support other managers.",JOB_46,Marketing Manager,business
+Lead,"Looking for a Lead Marketing Manager to coordinate overall marketing plans, review outcomes, and guide the team.",JOB_47,Marketing Manager,business
+Junior,"Hiring a Junior ICU Nurse to assist with patient monitoring, basic procedures, and accurate documentation under supervision.",JOB_48,Registered Nurse (ICU),health
+Junior,"Junior Registered Nurse (ICU) role focused on supporting vital checks, routine tasks, and care records.",JOB_49,Registered Nurse (ICU),health
+Mid,"Seeking an ICU Registered Nurse to manage routine treatments, monitor patients, and follow unit protocols.",JOB_50,Registered Nurse (ICU),health
+Mid,"ICU Nurse needed to provide clinical care, perform observations, and participate in shift handovers.",JOB_51,Registered Nurse (ICU),health
+Senior,"Senior ICU Nurse role involving oversight of complex cases, coordination of care, and review of procedures.",JOB_52,Registered Nurse (ICU),health
+Senior,"Hiring a Senior Registered Nurse (ICU) to guide less experienced staff, review care plans, and support critical situations.",JOB_53,Registered Nurse (ICU),health
+Lead,"Lead ICU Nurse needed to coordinate unit routines, support staffing decisions, and oversee clinical standards.",JOB_54,Registered Nurse (ICU),health
+Lead,Looking for a Lead Registered Nurse (ICU) to manage workflow across shifts and support quality improvement.,JOB_55,Registered Nurse (ICU),health
+Junior,"Hiring a Junior Pediatric Nurse to help with basic treatments, observations, and documentation for child patients.",JOB_56,Pediatric Nurse,health
+Junior,"Junior Pediatric Nurse role focused on routine care tasks, recording information, and assisting senior staff.",JOB_57,Pediatric Nurse,health
+Mid,"Seeking a Pediatric Nurse to administer treatments, monitor progress, and ensure accurate clinical records.",JOB_58,Pediatric Nurse,health
+Mid,"Pediatric Nurse needed to manage day-to-day care, follow protocols, and coordinate with the clinical team.",JOB_59,Pediatric Nurse,health
+Senior,"Senior Pediatric Nurse role involving oversight of care activities, review of treatment routines, and guidance for colleagues.",JOB_60,Pediatric Nurse,health
+Senior,"Hiring a Senior Pediatric Nurse to handle complex cases, support decision-making, and supervise clinical tasks.",JOB_61,Pediatric Nurse,health
+Lead,"Lead Pediatric Nurse needed to organize ward routines, support staffing, and oversee care quality.",JOB_62,Pediatric Nurse,health
+Lead,"Looking for a Lead Pediatric Nurse to coordinate unit operations, ensure standards, and support improvement work.",JOB_63,Pediatric Nurse,health
+Junior,"Hiring a Junior Pharmacist to assist with dispensing, basic checks, and stock updates under supervision.",JOB_64,Pharmacist,health
+Junior,"Junior Pharmacist role focused on preparing prescriptions, recording information, and supporting routine tasks.",JOB_65,Pharmacist,health
+Mid,"Seeking a Pharmacist to verify prescriptions, check interactions, and maintain accurate records.",JOB_66,Pharmacist,health
+Mid,"Pharmacist needed to manage daily dispensing, monitor inventory, and follow pharmacy protocols.",JOB_67,Pharmacist,health
+Senior,"Senior Pharmacist role involving review of complex cases, oversight of processes, and support for clinical decisions.",JOB_68,Pharmacist,health
+Senior,"Hiring a Senior Pharmacist to supervise dispensing activities, refine procedures, and guide junior staff.",JOB_69,Pharmacist,health
+Lead,"Lead Pharmacist needed to coordinate pharmacy operations, define standards, and manage key responsibilities.",JOB_70,Pharmacist,health
+Lead,"Looking for a Lead Pharmacist to oversee workflows, maintain regulatory alignment, and support overall service quality.",JOB_71,Pharmacist,health
+Junior,"Hiring a Junior High School Teacher to deliver prepared lessons, assist with assessment, and support classroom routines.",JOB_72,High School Teacher,education
+Junior,"Junior High School Teacher role focused on basic instruction, supervision, and maintaining records.",JOB_73,High School Teacher,education
+Mid,"Seeking a High School Teacher to plan lessons, deliver content, and evaluate student work.",JOB_74,High School Teacher,education
+Mid,"High School Teacher needed to manage a class, follow curriculum guidelines, and contribute to school activities.",JOB_75,High School Teacher,education
+Senior,"Senior High School Teacher role involving advanced course planning, exam preparation, and mentoring newer staff.",JOB_76,High School Teacher,education
+Senior,"Hiring a Senior High School Teacher to lead subject areas, refine teaching materials, and support departmental work.",JOB_77,High School Teacher,education
+Lead,"Lead High School Teacher needed to coordinate subject teams, review practices, and support academic initiatives.",JOB_78,High School Teacher,education
+Lead,Looking for a Lead High School Teacher to guide curriculum implementation and support broader school projects.,JOB_79,High School Teacher,education
+Junior,"Hiring a Junior University Lecturer to assist with seminars, grading, and course delivery under supervision.",JOB_80,University Lecturer,education
+Junior,"Junior University Lecturer role focused on supporting teaching activities, preparing materials, and helping with assessments.",JOB_81,University Lecturer,education
+Mid,"Seeking a University Lecturer to deliver lectures, run tutorials, and contribute to course design.",JOB_82,University Lecturer,education
+Mid,"University Lecturer needed to manage modules, guide students, and participate in academic activities.",JOB_83,University Lecturer,education
+Senior,"Senior University Lecturer role involving responsibility for advanced courses, supervision, and curriculum planning.",JOB_84,University Lecturer,education
+Senior,Hiring a Senior University Lecturer to coordinate teaching within a subject area and review course structures.,JOB_85,University Lecturer,education
+Lead,"Lead University Lecturer needed to guide programme design, support teaching teams, and oversee quality processes.",JOB_86,University Lecturer,education
+Lead,Looking for a Lead University Lecturer to direct academic delivery and support strategic teaching initiatives.,JOB_87,University Lecturer,education
+Junior,"Hiring a Junior Research Assistant to help with data entry, basic analysis, and literature searches.",JOB_88,Research Assistant,education
+Junior,"Junior Research Assistant role focused on supporting experiments, preparing materials, and maintaining records.",JOB_89,Research Assistant,education
+Mid,"Seeking a Research Assistant to manage data collection, run analyses, and contribute to reporting.",JOB_90,Research Assistant,education
+Mid,"Research Assistant needed to coordinate study tasks, organise files, and support project documentation.",JOB_91,Research Assistant,education
+Senior,"Senior Research Assistant role involving oversight of day-to-day research work, data quality checks, and junior support.",JOB_92,Research Assistant,education
+Senior,"Hiring a Senior Research Assistant to coordinate complex procedures, refine protocols, and assist with publications.",JOB_93,Research Assistant,education
+Lead,"Lead Research Assistant needed to supervise research operations, standardise methods, and support project planning.",JOB_94,Research Assistant,education
+Lead,Looking for a Lead Research Assistant to manage research workflows and coordinate across study teams.,JOB_95,Research Assistant,education
+Junior,"Hiring a Junior Electrician to assist with installations, routine checks, and basic repairs under supervision.",JOB_96,Electrician,trades
+Junior,"Junior Electrician role focused on supporting wiring tasks, tool setup, and basic fault checks.",JOB_97,Electrician,trades
+Mid,"Seeking an Electrician to handle standard installations, perform tests, and maintain safety standards.",JOB_98,Electrician,trades
+Mid,"Electrician needed to carry out maintenance work, read basic plans, and document completed tasks.",JOB_99,Electrician,trades
+Senior,"Senior Electrician role involving complex diagnostic work, oversight of installations, and review of safety practices.",JOB_100,Electrician,trades
+Senior,"Hiring a Senior Electrician to manage challenging jobs, advise other staff, and ensure compliance on site.",JOB_101,Electrician,trades
+Lead,"Lead Electrician needed to coordinate electrical work across projects, plan tasks, and supervise teams.",JOB_102,Electrician,trades
+Lead,Looking for a Lead Electrician to direct on-site electrical activities and support overall project delivery.,JOB_103,Electrician,trades
+Junior,"Hiring a Junior Mechanical Technician to assist with equipment checks, basic repairs, and workshop tasks.",JOB_104,Mechanical Technician,trades
+Junior,"Junior Mechanical Technician role focused on routine maintenance, part replacement, and tool preparation.",JOB_105,Mechanical Technician,trades
+Mid,"Seeking a Mechanical Technician to troubleshoot equipment issues, perform repairs, and document work.",JOB_106,Mechanical Technician,trades
+Mid,"Mechanical Technician needed to handle scheduled maintenance, follow technical instructions, and support operations.",JOB_107,Mechanical Technician,trades
+Senior,"Senior Mechanical Technician role involving complex fault finding, oversight of repairs, and review of procedures.",JOB_108,Mechanical Technician,trades
+Senior,"Hiring a Senior Mechanical Technician to lead maintenance tasks, advise others, and refine processes.",JOB_109,Mechanical Technician,trades
+Lead,"Lead Mechanical Technician needed to coordinate maintenance plans, assign work, and oversee technical quality.",JOB_110,Mechanical Technician,trades
+Lead,Looking for a Lead Mechanical Technician to supervise workshop activity and support continuous improvement.,JOB_111,Mechanical Technician,trades
+Junior,"Hiring a Junior Construction Supervisor to assist with site checks, basic coordination, and daily reporting.",JOB_112,Construction Supervisor,trades
+Junior,Junior Construction Supervisor role focused on supporting on-site organisation and routine safety observations.,JOB_113,Construction Supervisor,trades
+Mid,"Seeking a Construction Supervisor to coordinate teams, track progress, and support schedule adherence.",JOB_114,Construction Supervisor,trades
+Mid,"Construction Supervisor needed to oversee day-to-day site activity, maintain logs, and handle basic issues.",JOB_115,Construction Supervisor,trades
+Senior,"Senior Construction Supervisor role involving responsibility for site operations, risk monitoring, and contractor coordination.",JOB_116,Construction Supervisor,trades
+Senior,"Hiring a Senior Construction Supervisor to manage complex sites, review plans, and handle escalations.",JOB_117,Construction Supervisor,trades
+Lead,"Lead Construction Supervisor needed to direct multiple sites, align work with plans, and oversee supervisors.",JOB_118,Construction Supervisor,trades
+Lead,Looking for a Lead Construction Supervisor to manage large-scale construction activities and coordinate across projects.,JOB_119,Construction Supervisor,trades
+Junior,"Hiring a Junior Policy Analyst to support background research, simple analysis, and preparation of draft notes.",JOB_120,Policy Analyst,public
+Junior,"Junior Policy Analyst role focused on gathering information, updating summaries, and assisting with documentation.",JOB_121,Policy Analyst,public
+Mid,"Seeking a Policy Analyst to review evidence, analyse options, and help prepare structured briefs.",JOB_122,Policy Analyst,public
+Mid,"Policy Analyst needed to conduct targeted research, compile findings, and support decision papers.",JOB_123,Policy Analyst,public
+Senior,"Senior Policy Analyst role involving responsibility for complex analyses, review of work, and input into recommendations.",JOB_124,Policy Analyst,public
+Senior,"Hiring a Senior Policy Analyst to lead analytical tasks, refine drafts, and coordinate with stakeholders.",JOB_125,Policy Analyst,public
+Lead,"Lead Policy Analyst needed to direct policy studies, oversee analytical teams, and ensure quality of outputs.",JOB_126,Policy Analyst,public
+Lead,Looking for a Lead Policy Analyst to shape analytical approaches and coordinate major reviews.,JOB_127,Policy Analyst,public
+Junior,"Hiring a Junior Social Worker to support intake, basic documentation, and follow-up under supervision.",JOB_128,Social Worker,public
+Junior,"Junior Social Worker role focused on assisting with routine case tasks, visit scheduling, and record updates.",JOB_129,Social Worker,public
+Mid,"Seeking a Social Worker to manage cases, conduct assessments, and maintain accurate files.",JOB_130,Social Worker,public
+Mid,"Social Worker needed to coordinate support activities, monitor progress, and contribute to service plans.",JOB_131,Social Worker,public
+Senior,"Senior Social Worker role involving oversight of complex cases, review of documentation, and guidance for colleagues.",JOB_132,Social Worker,public
+Senior,"Hiring a Senior Social Worker to handle escalated matters, refine practice approaches, and support service delivery.",JOB_133,Social Worker,public
+Lead,"Lead Social Worker needed to coordinate team workloads, oversee practice standards, and support service improvements.",JOB_134,Social Worker,public
+Lead,Looking for a Lead Social Worker to direct case management structures and contribute to service planning.,JOB_135,Social Worker,public
+Junior,"Hiring a Junior Graphic Designer to prepare assets, follow design guidelines, and support production tasks.",JOB_136,Graphic Designer,creative
+Junior,"Junior Graphic Designer role focused on basic layout work, file preparation, and updates under direction.",JOB_137,Graphic Designer,creative
+Mid,"Seeking a Graphic Designer to create visuals, refine layouts, and adapt designs for different formats.",JOB_138,Graphic Designer,creative
+Mid,"Graphic Designer needed to work on day-to-day design tasks, maintain consistency, and deliver assets on time.",JOB_139,Graphic Designer,creative
+Senior,"Senior Graphic Designer role involving responsibility for key design work, review of concepts, and refinement of visual outputs.",JOB_140,Graphic Designer,creative
+Senior,"Hiring a Senior Graphic Designer to lead complex design tasks, advise others, and maintain visual standards.",JOB_141,Graphic Designer,creative
+Lead,"Lead Graphic Designer needed to guide design direction, coordinate work across projects, and oversee visual consistency.",JOB_142,Graphic Designer,creative
+Lead,"Looking for a Lead Graphic Designer to manage design planning, supervise designers, and support brand-level decisions.",JOB_143,Graphic Designer,creative

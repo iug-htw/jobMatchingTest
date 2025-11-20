@@ -1,0 +1,25 @@
+ {
+    "Software Engineer": "tech",
+    "Data Scientist": "tech",
+    "Product Manager": "tech",
+
+    "Project Manager": "business",
+    "Financial Analyst": "business",
+    "Marketing Manager": "business",
+
+    "Registered Nurse (ICU)": "health",
+    "Pediatric Nurse": "health",
+    "Pharmacist": "health",
+
+    "High School Teacher": "education",
+    "University Lecturer": "education",
+    "Research Assistant": "education",
+
+    "Electrician": "trades",
+    "Mechanical Technician": "trades",
+    "Construction Supervisor": "trades",
+
+    "Policy Analyst": "public",
+    "Social Worker": "public",
+    "Graphic Designer": "creative"
+}

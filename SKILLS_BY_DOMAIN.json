@@ -1,0 +1,32 @@
+{
+    "tech": [
+        "Python, Docker, and cloud deployment",
+        "CI/CD, monitoring, and incident response",
+        "microservices, REST APIs, and testing"
+    ],
+    "business": [
+        "budgeting, planning, and reporting",
+        "stakeholder management and risk control",
+        "market analysis and performance tracking"
+    ],
+    "health": [
+        "patient care and clinical protocols",
+        "medication administration and safety",
+        "monitoring and documentation"
+    ],
+    "education": [
+        "lesson planning and assessment",
+        "curriculum design and pedagogy",
+        "research methods and academic writing"
+    ],
+    "trades": [
+        "safety compliance and tools operation",
+        "maintenance and diagnostics",
+        "blueprint reading and QA"
+    ],
+    "public": [
+        "policy analysis and briefing",
+        "community engagement and outreach",
+        "reporting and documentation"
+    ]
+}
