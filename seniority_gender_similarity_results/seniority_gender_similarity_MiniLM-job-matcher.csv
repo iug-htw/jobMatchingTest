@@ -1,0 +1,5 @@
+model_name,model_id,seniority_term,avg_sim_female,avg_sim_male,diff_male_minus_female
+MiniLM-job-matcher,forestav/job_matching_sentence_transformer,junior,0.19330115616321564,0.19945572316646576,0.006154567003250122
+MiniLM-job-matcher,forestav/job_matching_sentence_transformer,mid-level,0.1661892682313919,0.1491646021604538,-0.01702466607093811
+MiniLM-job-matcher,forestav/job_matching_sentence_transformer,senior,0.18546567857265472,0.20613546669483185,0.020669788122177124
+MiniLM-job-matcher,forestav/job_matching_sentence_transformer,lead,0.15665291249752045,0.18231719732284546,0.025664284825325012

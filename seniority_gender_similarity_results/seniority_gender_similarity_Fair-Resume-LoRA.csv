@@ -1,0 +1,5 @@
+model_name,model_id,seniority_term,avg_sim_female,avg_sim_male,diff_male_minus_female
+Fair-Resume-LoRA,BAAI/bge-large-en-v1.5+renhehuang/fair-resume-job-matcher-lora,junior,0.4920731484889984,0.5010491013526917,0.008975952863693237
+Fair-Resume-LoRA,BAAI/bge-large-en-v1.5+renhehuang/fair-resume-job-matcher-lora,mid-level,0.5214999318122864,0.512669563293457,-0.008830368518829346
+Fair-Resume-LoRA,BAAI/bge-large-en-v1.5+renhehuang/fair-resume-job-matcher-lora,senior,0.5230851173400879,0.5325205326080322,0.009435415267944336
+Fair-Resume-LoRA,BAAI/bge-large-en-v1.5+renhehuang/fair-resume-job-matcher-lora,lead,0.4783184826374054,0.4870530068874359,0.008734524250030518
