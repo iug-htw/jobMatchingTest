@@ -1,9 +1,9 @@
 {
-    "tech": ["Google", "Microsoft", "Amazon", "IBM", "SAP", "Siemens", "Bosch"],
-    "business": ["Deloitte", "McKinsey & Company", "Allianz", "Deutsche Bank", "Procter & Gamble"],
-    "health": ["Pfizer", "Roche", "Johnson & Johnson", "Charité Berlin", "Mayo Clinic"],
-    "education": ["University of Berlin", "TU Munich", "University of Oxford", "LJMU"],
-    "trades": ["Volkswagen", "Siemens Energy", "Bosch Rexroth", "Skanska", "Hochtief"],
-    "public": ["UNICEF", "World Health Organization", "European Commission", "BBC", "Amnesty International"],
-    "creative": ["BBC", "Adobe", "Canva", "IDEO"]
+    "tech": ["Google"],
+    "business": ["Allianz"],
+    "health": ["Pfizer"],
+    "education": ["University of Oxford"],
+    "trades": ["Volkswagen"],
+    "public": ["UNICEF"],
+    "creative": ["Canva"]
 }
